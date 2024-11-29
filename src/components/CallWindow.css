@@ -1,0 +1,42 @@
+.call-window {
+    display: flex;
+    gap: 40px;
+    margin: 20px 0;
+}
+.call-column{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+.call-content{
+    display: flex;
+    flex-direction: row;
+}
+.call-card {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fefefe;
+    margin: 0 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.call-card h3 {
+    margin-top: 0;
+    color: #555;
+}
+
+.call-card p {
+    margin: 5px 0;
+}
+
+
+.call-btn{
+    width: 180px;
+    margin: 20px 0px 0px 0px;
+}
+.call-btn-next{
+    margin: 50px 0px 0px 0px;
+    height: 60px;
+}  

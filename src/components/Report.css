@@ -1,0 +1,33 @@
+.report {
+  margin-top: 20px;
+}
+
+.report h2 {
+  text-align: center;
+  color: #333;
+}
+
+.report ol {
+  padding: 0;
+  margin: 20px auto;
+  max-width: 500px;
+}
+
+.report li {
+  background: #e7f3ff;
+  border: 1px solid #b3d4fc;
+  margin-bottom: 5px;
+  padding: 10px;
+  border-radius: 4px;
+  list-style-position: inside;
+}
+
+.report p {
+  text-align: center;
+  color: #555;
+}
+.input{
+height: 32px;
+font-size: 18px;
+border-radius: 5px;
+}  
